@@ -41,33 +41,33 @@ No virtual environments or Conda setups are needed at this stage.
 ---
 
 ## 4. Repository Structure
-'''
+```
 DataScience-GenAI-Learning/
 │
 ├── Day01_Python_Basics/
-│ ├── variables.py
-│ ├── lists.py
-│ ├── tuples_dictionaries.py
-│ └── exercises.ipynb
+│   ├── variables.py
+│   ├── lists.py
+│   ├── tuples_dictionaries.py
+│   └── exercises.ipynb
 │
 ├── Day02_Python_Intermediate/
-│ ├── loops.py
-│ ├── functions.py
-│ ├── error_handling.py
-│ └── exercises.ipynb
+│   ├── loops.py
+│   ├── functions.py
+│   ├── error_handling.py
+│   └── exercises.ipynb
 │
 ├── Day03_Python_Advanced/
-│ ├── classes_oop.py
-│ ├── modules_packages.py
-│ └── exercises.ipynb
+│   ├── classes_oop.py
+│   ├── modules_packages.py
+│   └── exercises.ipynb
 │
 ├── Projects/
-│ ├── Project01_StudentReportAnalyzer/
-│ ├── Project02_Chatbot_Basics/
-│ └── Project03_Data_Cleaning_Automation/
+│   ├── Project01_StudentReportAnalyzer/
+│   ├── Project02_Chatbot_Basics/
+│   └── Project03_Data_Cleaning_Automation/
 │
 └── README.md
-'''
+```
 
 
 ---
