@@ -68,8 +68,6 @@ DataScience-GenAI-Learning/
 │
 └── README.md
 ```
-
-
 ---
 
 ## 5. Technologies & Tools
