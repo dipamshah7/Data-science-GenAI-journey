@@ -41,7 +41,7 @@ No virtual environments or Conda setups are needed at this stage.
 ---
 
 ## 4. Repository Structure
-
+'''
 DataScience-GenAI-Learning/
 │
 ├── Day01_Python_Basics/
@@ -67,6 +67,7 @@ DataScience-GenAI-Learning/
 │ └── Project03_Data_Cleaning_Automation/
 │
 └── README.md
+'''
 
 
 ---
