@@ -1,0 +1,10 @@
+Order_ID,Customer,City,Product,Quantity,Price,Order_Date
+101,Dipam,Bangalore,Laptop,1,60000,2024-01-05
+102,Raj,Mumbai,Phone,2,20000,2024-01-06
+103,Anita,Delhi,Tablet,1,30000,2024-01-07
+104,Karan,Bangalore,Phone,1,20000,2024-01-07
+105,Meena,Mumbai,Laptop,1,60000,2024-01-08
+106,Rahul,Delhi,Phone,3,20000,2024-01-08
+107,Priya,Bangalore,Tablet,2,30000,2024-01-09
+108,Amit,Mumbai,Phone,,20000,2024-01-10
+109,Sneha,Delhi,Laptop,1,,2024-01-11
