@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Customer,City,Category,Product,Quantity,Price,Payment_Mode
+1001,2024-02-01,Dipam,Bangalore,Electronics,Laptop,1,65000,UPI
+1002,2024-02-01,Raj,Mumbai,Electronics,Phone,2,22000,Credit Card
+1003,2024-02-02,Anita,Delhi,Furniture,Chair,4,3000,Cash
+1004,2024-02-02,Karan,Bangalore,Electronics,Tablet,1,28000,UPI
+1005,2024-02-03,Meena,Mumbai,Furniture,Table,1,15000,Credit Card
+1006,2024-02-03,Rahul,Delhi,Electronics,Phone,3,22000,UPI
+1007,2024-02-04,Priya,Bangalore,Furniture,Sofa,1,40000,Cash
+1008,2024-02-05,Amit,Mumbai,Electronics,Laptop,1,65000,UPI
+1009,2024-02-05,Sneha,Delhi,Electronics,Phone,,22000,Credit Card
+1010,2024-02-06,Vikas,Bangalore,Furniture,Chair,2,,Cash
+1011,2024-02-07,Neha,Mumbai,Electronics,Tablet,1,28000,UPI
+1012,2024-02-08,Arjun,Delhi,Furniture,Table,1,15000,Cash
